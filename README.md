@@ -1,6 +1,6 @@
 # My personal Kometa Configuration File
 
-Kometa uses a YAML configuration file to set its behavior and define connection details for Plex Media Server, Radarr, Sonarr, and other third-party services. By default, Kometa looks for the config file at `/config/config.yml`. A template configuration file is available in the [GitHub Repo](link).
+Kometa uses a YAML configuration file (https://metamanager.wiki/en/latest/config/overview/) to set its behavior and define connection details for Plex Media Server, Radarr, Sonarr, and other third-party services. By default, Kometa looks for the config file at `/config/config.yml`. A template configuration file is available at https://github.com/Kometa-Team/Kometa/blob/master/config/config.yml.template. You should start with this and slowly add changes.
 
 ## Summary of my configuration changes
 
